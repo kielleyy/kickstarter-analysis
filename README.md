@@ -1,5 +1,5 @@
 # kickstarter-analysis
-*Performing analysis on kickstarter data to uncover trends and compare similar client campaigns*
+*Performing analysis on kickstarter data to uncover trends of theater campaigns*
 
 ## How the work came to be
 ###### Careful Instructions
